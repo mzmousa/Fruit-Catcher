@@ -13,9 +13,7 @@ DISCLAIMER: The documentation for this was written when I was first learning Jav
 ### How to Run
 Since I first implemented this as an applet, rather than a GUI, running this smoothly is a bit troublesome. Until I implement this on my personal website, you must:  
 1. Clone this project in your local directory.
-2. Open `StartingPoint.jcw` in JCreator (download [here](http://www.jcreator.org/download.htm)).   
----OR---   
-Import the files in `/src` as a new project in Eclipse (download [here](http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/marsr)).  
+2. Open `StartingPoint.jcw` in JCreator (download [here](http://www.jcreator.org/download.htm)).  
 3. Run the project.
 
 ### How to Play
