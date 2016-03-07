@@ -65,7 +65,7 @@ public class StartingPoint extends Applet implements Runnable, KeyListener, Mous
 		} catch (Exception e) {
 			
 		}
-		backgroundImage = getImage(url, "background.png");
+		backgroundImage = getImage(url, "images/background.png");
 		Pictures p = new Pictures(this); // An instance of the pictures class where all pictures are located in (this) class
 	}
 	
