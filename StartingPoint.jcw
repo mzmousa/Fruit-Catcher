@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>StartingPoint</label>
+	</settings>
+	<users>
+		<user>
+			<path>StartingPoint.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>StartingPoint.jcp</path>
+		</project>
+	</projects>
+</workspace>
