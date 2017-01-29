@@ -5,8 +5,6 @@ Created by Muhammad Mousa
 A side-scrolling game where you control a bouncing Mario character to catch fruits, avoid bombs, and not fall between the platforms. Loads of fun!  
 Written in Java using the JCreator IDE.  
 
-DISCLAIMER: The documentation for this was written when I first started programming in 2013.
-
 ![fruit-catcher-load] (https://raw.githubusercontent.com/mzmousa/Fruit-Catcher/master/startscreen.png)
 ![fruit-catcher-gameplay] (https://raw.githubusercontent.com/mzmousa/Fruit-Catcher/master/gameplay.png)
 
