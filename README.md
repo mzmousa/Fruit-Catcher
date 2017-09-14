@@ -1,10 +1,8 @@
 # Fruit Catcher
-Created by Muhammad Mousa
-
-### Overview
 
 ![fruit-catcher-gif](https://github.com/mzmousa/Fruit-Catcher/blob/master/fruit-catcher-gamplay.gif?raw=true)
 
+### Overview
 A side-scrolling game where you control a bouncing Mario character to catch fruits, avoid bombs, and not fall between the platforms.
 Written in Java using the JCreator IDE.  
 
