@@ -2,11 +2,14 @@
 Created by Muhammad Mousa
 
 ### Overview
-A side-scrolling game where you control a bouncing Mario character to catch fruits, avoid bombs, and not fall between the platforms. Loads of fun!  
+
+![fruit-catcher-gif](https://github.com/mzmousa/Fruit-Catcher/blob/master/fruit-catcher-gamplay.gif?raw=true)
+
+A side-scrolling game where you control a bouncing Mario character to catch fruits, avoid bombs, and not fall between the platforms.
 Written in Java using the JCreator IDE.  
 
-![fruit-catcher-load] (https://raw.githubusercontent.com/mzmousa/Fruit-Catcher/master/startscreen.png)
-![fruit-catcher-gameplay] (https://raw.githubusercontent.com/mzmousa/Fruit-Catcher/master/gameplay.png)
+![fruit-catcher-load](https://raw.githubusercontent.com/mzmousa/Fruit-Catcher/master/startscreen.png)
+![fruit-catcher-gameplay](https://raw.githubusercontent.com/mzmousa/Fruit-Catcher/master/gameplay.png)
 
 ### How to Run
 Since I first implemented this as an applet, rather than a GUI, running this smoothly is a bit troublesome. Until I implement this on my personal website, you must:  
